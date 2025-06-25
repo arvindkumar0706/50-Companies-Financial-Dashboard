@@ -1,8 +1,8 @@
 🎯 I'm excited to share my latest Power BI Data Analytics project, where I built an interactive dashboard analyzing the financial performance of 50 major S&P 500 companies across key business metrics! 💼📈
 
-🔗 Live Demo / Walkthrough (Optional): [Add if hosted]
-💻 GitHub Repository: https://github.com/yourusername/SP500-PowerBI-Dashboard
-📁 Dataset: Cleaned financials of 50 S&P 500 companies (manually prepared)
+🔗 Live Demo : https://app.powerbi.com/view?r=eyJrIjoiZDZhOWMyZTItYzZhNi00ZDNjLTgzYzAtZDgyYjBhNDY0MDQ4IiwidCI6ImYxYTllNDE4LWZiNTItNDFiZi04NWJiLWI3NDQzNGIwMjBmZCJ9
+💻 GitHub Repository: https://github.com/arvindkumar0706/50-Companies-Financial-Dashboard
+📁 Dataset: Cleaned financials of 50 companies (manually prepared).
 
 🧹 Data Preparation:
 
@@ -18,15 +18,10 @@ Added custom calculated columns like Risk Buckets, Company Groups, and Growth Se
 ✅ Market Performance – EPS growth and stock return trends (YTD + Yearly)
 
 🔍 Key Features:
-
 Slicers by Risk Level and Company Groups (1–5)
-
 KPI Cards for totals and averages
-
 Bar, column, and scatter visuals to highlight insights
-
 Conditional formatting to enhance financial comparisons
-
 DAX logic using SWITCH, RANKX, and custom buckets
 
 📈 What I Learned:
